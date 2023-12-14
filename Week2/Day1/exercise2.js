@@ -9,7 +9,9 @@ const myWatchedSeriesSentence = myWatchedSeries.join(', and ');
 const finalSentence = `I watched ${myWatchedSeriesLength} series: ${myWatchedSeriesSentence}.`;
 
 
-console.log(finalSentence);I watched 3 series: black mirror, money heist, and the big bang theory.
+console.log(finalSentence)
+
+
 
 
 const celsiusTemperature = 25; //
